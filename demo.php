@@ -1,4 +1,6 @@
 <?php
+// URA BUTTHOLE
+
 require('phpQuery/phpQuery.php');
 
 // INITIALIZE IT
